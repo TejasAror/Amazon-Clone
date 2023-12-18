@@ -109,7 +109,7 @@ span{
 }
 
 /** panel **/
-.panel{
+.panel{ 
     height: 40px;
     background-color: #222f3d;
     display: flex;
